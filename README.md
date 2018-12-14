@@ -10,6 +10,6 @@
 |Wiktionary-Based Word Embeddings|wiki字典，多语言全局embedding|http://www.mt-archive.info/15/MTS-2015-DeMelo.pdf|基于词与词之间的关系（使用加权内积）建模|
 |Adversarial Network Embedding|对抗网络Embedding|https://arxiv.org/pdf/1711.07838.pdf||
 |Interpretable Adversarial Perturbation in Input Embedding Space for Text||https://www.ijcai.org/proceedings/2018/0601.pdf||
-|Enriching Word Vectors with Subword Information|char n-gram，形态学词向量|https://research.fb.com/wp-content/uploads/2017/06/tacl.pdf|对词的char结构建模（n-gram），得到表征词形态的词向量|
+|Enriching Word Vectors with Subword Information|char n-gram，形态学词向量|https://research.fb.com/wp-content/uploads/2017/06/tacl.pdf|使用char级别的 n-gram 特征建模，得到表征词形态的词向量|
 |Linguistic Regularities in Sparse and Explicit Word Representations||http://www.aclweb.org/anthology/W14-1618||
 |Advances in Pre-Training Distributed Word Representations||https://arxiv.org/pdf/1712.09405||
