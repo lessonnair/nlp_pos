@@ -14,4 +14,4 @@
 |Linguistic Regularities in Sparse and Explicit Word Representations||http://www.aclweb.org/anthology/W14-1618|nothing special|
 |Advances in Pre-Training Distributed Word Representations|词向量训练优化手段|https://arxiv.org/pdf/1712.09405|词频为Zipf分布，需要提高高频词的discard probability；类似attention的加权context embedding；可以用mutual information criterion从数量爆炸的n-gram中选择少部分信息量大的|
 |Learning to Compose Words into Sentences with Reinforcement Learning||https://arxiv.org/pdf/1611.09100||
-|Recent Trends in Deep Learning Based Natural Language Processing||http://2www.sentic.net/deep-learning-for-nlp-review.pdf|多个nlp任务最新进展，参考价值很大|
+|Recent Trends in Deep Learning Based Natural Language Processing|多个nlp任务 state of art 方法|http://2www.sentic.net/deep-learning-for-nlp-review.pdf|多个nlp任务最新进展，参考价值很大|
