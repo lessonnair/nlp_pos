@@ -9,7 +9,7 @@
 |Training Neural Word Embeddings For Transfer Learning And Translation|迁移学习的Embedding|http://scholar.sun.ac.za/handle/10019.1/98758||
 |Wiktionary-Based Word Embeddings|wiki字典，多语言全局embedding|http://www.mt-archive.info/15/MTS-2015-DeMelo.pdf|基于词与词之间的关系（使用加权内积）建模|
 |Adversarial Network Embedding|对抗网络Embedding|https://arxiv.org/pdf/1711.07838.pdf||
-|Interpretable Adversarial Perturbation in Input Embedding Space for Text|对抗扰动生成方式，此对抗样本|https://www.ijcai.org/proceedings/2018/0601.pdf|对抗扰动生成方式增加限制，另其仅在有实际意义的word的方向变动，而非随机变动（后续或者可以加入lm限制）|
+|Interpretable Adversarial Perturbation in Input Embedding Space for Text|对抗扰动生成方式，此对抗样本|https://www.ijcai.org/proceedings/2018/0601.pdf|对抗扰动生成方式增加限制，另其仅在有实际意义的word的方向变动，而非随机任意方向变动（后续或者可以加入更强限制，比如lm模型）|
 |Enriching Word Vectors with Subword Information|char n-gram，形态学词向量|https://research.fb.com/wp-content/uploads/2017/06/tacl.pdf|使用char级别的 n-gram 特征建模，得到表征词形态的词向量|
 |Linguistic Regularities in Sparse and Explicit Word Representations||http://www.aclweb.org/anthology/W14-1618|nothing special|
 |Advances in Pre-Training Distributed Word Representations|词向量训练优化手段|https://arxiv.org/pdf/1712.09405|词频为Zipf分布，需要提高高频词的discard probability；类似attention的加权context embedding；可以用mutual information criterion从数量爆炸的n-gram中选择少部分信息量大的|
