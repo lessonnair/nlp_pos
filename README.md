@@ -16,4 +16,4 @@
 |Learning to Compose Words into Sentences with Reinforcement Learning||https://arxiv.org/pdf/1611.09100||
 |Recent Trends in Deep Learning Based Natural Language Processing|多个nlp任务 state of art 方法|http://2www.sentic.net/deep-learning-for-nlp-review.pdf|多个nlp任务最新进展，参考价值很大|
 |Invariant Variation Problems|经典不变量分析|https://arxiv.org/pdf/physics/0503066|最经典论文|
-|Lexicon infused phrase embeddings for named entity resolution|词典，Phrase Embeddings|https://arxiv.org/pdf/1404.5367.pdf||
+|Lexicon infused phrase embeddings for named entity resolution|词典，Phrase Embeddings|https://arxiv.org/pdf/1404.5367.pdf|改装skip-gram，除了预测上下文的context外，还预测辞典中与改词关联的context|
