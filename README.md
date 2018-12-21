@@ -20,3 +20,4 @@
 |Improved Word and Symbol Embedding for Part-of-Speech Tagging|改进词向量|https://denero.org/content/pubs/snl17_altieri_tagging.pdf||
 |Unsupervised POS Induction with Word Embeddings|无监督POS词向量|http://www.aclweb.org/anthology/N15-1144||
 |Improving the Accuracy of Pre-trained Word Embeddings for Sentiment Analysis|改进词向量|https://arxiv.org/ftp/arxiv/papers/1711/1711.08609.pdf||
+|Part-Of-Speech Tag Embedding for Modeling Sentences and Documents |POS Embedding|https://cloudfront.escholarship.org/dist/prd/content/qt0vk28220/qt0vk28220.pdf||
