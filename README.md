@@ -19,5 +19,5 @@
 |Lexicon infused phrase embeddings for named entity resolution|词典，Phrase Embeddings|https://arxiv.org/pdf/1404.5367.pdf|改装skip-gram，除了预测上下文的context外，还预测辞典中与改词关联的context|
 |Improved Word and Symbol Embedding for Part-of-Speech Tagging|改进词向量|https://denero.org/content/pubs/snl17_altieri_tagging.pdf||
 |Unsupervised POS Induction with Word Embeddings|无监督POS词向量|http://www.aclweb.org/anthology/N15-1144|skip-gram减小window size更利于获取语法信息|
-|Improving the Accuracy of Pre-trained Word Embeddings for Sentiment Analysis|通过简单concat的方法改进词向量|https://arxiv.org/ftp/arxiv/papers/1711/1711.08609.pdf|直接简单concat word2vec，glove，pos2vec，leicon2vec，缺点是需要引入外部有监督数据|
+|Improving the Accuracy of Pre-trained Word Embeddings for Sentiment Analysis|通过简单concat的方法改进词向量|https://arxiv.org/ftp/arxiv/papers/1711/1711.08609.pdf|直接简单concat word2vec、glove、pos2vec、leicon2vec，缺点是需要引入外部有监督数据|
 |Part-Of-Speech Tag Embedding for Modeling Sentences and Documents |POS Embedding|https://escholarship.org/uc/item/0vk28220|nothing special|
