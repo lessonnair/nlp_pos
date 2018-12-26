@@ -14,8 +14,8 @@
 |Linguistic Regularities in Sparse and Explicit Word Representations||http://www.aclweb.org/anthology/W14-1618|nothing special|
 |Advances in Pre-Training Distributed Word Representations|词向量训练优化手段|https://arxiv.org/pdf/1712.09405|词频为Zipf分布，需要提高高频词的discard probability；类似attention的加权context embedding；可以用mutual information criterion从数量爆炸的n-gram中选择少部分信息量大的|
 |Learning to Compose Words into Sentences with Reinforcement Learning|tree-structured representations,增强学习|https://arxiv.org/pdf/1611.09100||
-|Recent Trends in Deep Learning Based Natural Language Processing|多个nlp任务 state of art 方法|http://2www.sentic.net/deep-learning-for-nlp-review.pdf , http://www.neo-classical-physics.info/uploads/3/0/6/5/3065888/noether_-_invariant_variational_problems.pdf|多个nlp任务最新进展，参考价值很大|
-|Invariant Variation Problems|经典不变量分析|https://arxiv.org/pdf/physics/0503066|最经典论文,可以参考https://en.wikipedia.org/wiki/Noether%27s_theorem|
+|Recent Trends in Deep Learning Based Natural Language Processing|多个nlp任务 state of art 方法|http://2www.sentic.net/deep-learning-for-nlp-review.pdf|多个nlp任务最新进展，参考价值很大|
+|Invariant Variation Problems|经典不变量分析|https://arxiv.org/pdf/physics/0503066 , http://www.neo-classical-physics.info/uploads/3/0/6/5/3065888/noether_-_invariant_variational_problems.pdf|最经典论文,可以参考https://en.wikipedia.org/wiki/Noether%27s_theorem|
 |Lexicon infused phrase embeddings for named entity resolution|词典，Phrase Embeddings|https://arxiv.org/pdf/1404.5367.pdf|改装skip-gram，除了预测上下文的context外，还预测辞典中与改词关联的context|
 |Improved Word and Symbol Embedding for Part-of-Speech Tagging|词向量的使用技巧|https://denero.org/content/pubs/snl17_altieri_tagging.pdf|byte-pair encoding|
 |Unsupervised POS Induction with Word Embeddings|HMM、多元高斯分布|http://www.aclweb.org/anthology/N15-1144|skip-gram减小window size更利于获取语法信息；假设某个tag对应的词向量符合多元高斯分布|
