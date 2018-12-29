@@ -30,3 +30,4 @@
 |Optimal Algorithms for Non-Smooth Distributed Optimization in Networks||https://papers.nips.cc/paper/7539-optimal-algorithms-for-non-smooth-distributed-optimization-in-networks.pdf||
 |Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes||https://papers.nips.cc/paper/7601-nearly-tight-sample-complexity-bounds-for-learning-mixtures-of-gaussians-via-sample-compression-schemes.pdf||
 |Neural Ordinary Differential Equations||https://arxiv.org/pdf/1806.07366||
+|使用生成式对抗网络进行远距离监督关系抽取||https://mp.weixin.qq.com/s/mEwJs3ayo9iSg0S2uEfWdQ||
