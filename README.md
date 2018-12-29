@@ -22,6 +22,7 @@
 |Improving the Accuracy of Pre-trained Word Embeddings for Sentiment Analysis|通过简单concat的方法改进词向量|https://arxiv.org/ftp/arxiv/papers/1711/1711.08609.pdf|直接简单concat word2vec、glove、pos2vec、leicon2vec，缺点是需要引入外部有监督数据|
 |Part-Of-Speech Tag Embedding for Modeling Sentences and Documents |POS Embedding|https://escholarship.org/uc/item/0vk28220|nothing special|
 |Diagnosing and Enhancing VAE Models|ICLR 2019接收论文|https://openreview.net/pdf?id=B1e0X3C9tQ||
+|使用生成式对抗网络进行远距离监督关系抽取||https://mp.weixin.qq.com/s/mEwJs3ayo9iSg0S2uEfWdQ||
 
 # 2018 NIPS Best Paper
 |    论文题目    |   关键词＋概述   | 下载路径 | 说明（创新点） |
@@ -30,4 +31,3 @@
 |Optimal Algorithms for Non-Smooth Distributed Optimization in Networks||https://papers.nips.cc/paper/7539-optimal-algorithms-for-non-smooth-distributed-optimization-in-networks.pdf||
 |Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes||https://papers.nips.cc/paper/7601-nearly-tight-sample-complexity-bounds-for-learning-mixtures-of-gaussians-via-sample-compression-schemes.pdf||
 |Neural Ordinary Differential Equations||https://arxiv.org/pdf/1806.07366||
-|使用生成式对抗网络进行远距离监督关系抽取||https://mp.weixin.qq.com/s/mEwJs3ayo9iSg0S2uEfWdQ||
