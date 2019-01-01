@@ -21,8 +21,8 @@
 |Unsupervised POS Induction with Word Embeddings|HMM、多元高斯分布|http://www.aclweb.org/anthology/N15-1144|skip-gram减小window size更利于获取语法信息；假设某个tag对应的词向量符合多元高斯分布|
 |Improving the Accuracy of Pre-trained Word Embeddings for Sentiment Analysis|通过简单concat的方法改进词向量|https://arxiv.org/ftp/arxiv/papers/1711/1711.08609.pdf|直接简单concat word2vec、glove、pos2vec、leicon2vec，缺点是需要引入外部有监督数据|
 |Part-Of-Speech Tag Embedding for Modeling Sentences and Documents |POS Embedding|https://escholarship.org/uc/item/0vk28220|nothing special|
-|Diagnosing and Enhancing VAE Models|ICLR 2019接收论文|https://openreview.net/pdf?id=B1e0X3C9tQ , https://arxiv.org/pdf/1805.09929.pdf||
-|使用生成式对抗网络进行远距离监督关系抽取||https://mp.weixin.qq.com/s/mEwJs3ayo9iSg0S2uEfWdQ|用对抗网络进行样本去噪，generator和discriminator目标相反，generator尽可能预测样本干净度，预测出来的标签取反放入discriminator训练，训练直到discriminator性能下降最大为止（discriminator初始时和generator的目标一样）。|
+|Diagnosing and Enhancing VAE Models|ICLR 2019接收论文|https://openreview.net/pdf?id=B1e0X3C9tQ ||
+|使用生成式对抗网络进行远距离监督关系抽取||https://mp.weixin.qq.com/s/mEwJs3ayo9iSg0S2uEfWdQ ， https://arxiv.org/pdf/1805.09929|用对抗网络进行样本去噪，generator和discriminator目标相反，generator尽可能预测样本干净度，预测出来的标签取反放入discriminator训练，训练直到discriminator性能下降最大为止（discriminator初始时和generator的目标一样）。|
 |Phrase-Based & Neural Unsupervised Machine Translation|非监督机器翻译|https://arxiv.org/pdf/1804.07755.pdf||
 
 # 2018 NIPS Best Paper
