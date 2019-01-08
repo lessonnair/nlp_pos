@@ -25,8 +25,8 @@
 |使用生成式对抗网络进行远距离监督关系抽取||https://mp.weixin.qq.com/s/mEwJs3ayo9iSg0S2uEfWdQ ， https://arxiv.org/pdf/1805.09929|用对抗网络进行样本去噪，generator和discriminator目标相反，generator尽可能预测样本干净度，预测出来的标签取反放入discriminator训练，训练直到discriminator性能下降最大为止（discriminator初始时和generator的目标一样）。|
 |Phrase-Based & Neural Unsupervised Machine Translation|非监督机器翻译|https://arxiv.org/pdf/1804.07755.pdf||
 |Unsupervised Part-of-Speech Taggingwith Bilingual Graph-Based Projections|非监督 POS Tagging|https://aclanthology.info/pdf/P/P11/P11-1061.pdf||
-|Distinguishing Antonyms and Synonyms in a Pattern-based Neural Network|借助 parse tree 特征有监督训练反义word pair，基本假设是在同一句话里，反义词同时出现的概率大于同义词同时出现的概率|https://arxiv.org/pdf/1701.02962.pdf||
-|||||
+|Distinguishing Antonyms and Synonyms in a Pattern-based Neural Network|有监督训练word pair关系|https://arxiv.org/pdf/1701.02962.pdf|借助 parse tree 特征有监督训练反义word pair，基本假设是在同一句话里，反义词同时出现的概率大于同义词同时出现的概率|
+|Integrating Distributional Lexical Contrast into Word Embeddings for Antonym–Synonym Distinction||https://arxiv.org/pdf/1605.07766.pdf||
 
 # 2018 NIPS Best Paper
 |    论文题目    |   关键词＋概述   | 下载路径 | 说明（创新点） |
