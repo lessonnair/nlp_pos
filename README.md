@@ -27,7 +27,7 @@
 |Unsupervised Part-of-Speech Taggingwith Bilingual Graph-Based Projections|非监督 POS Tagging|https://aclanthology.info/pdf/P/P11/P11-1061.pdf||
 |Distinguishing Antonyms and Synonyms in a Pattern-based Neural Network|有监督训练word pair关系|https://arxiv.org/pdf/1701.02962.pdf|借助 parse tree 特征有监督训练反义word pair，基本假设是在同一句话里，反义词同时出现的概率大于同义词同时出现的概率|
 |Integrating Distributional Lexical Contrast into Word Embeddings for Antonym–Synonym Distinction|训练能区分同义词的embedding|https://arxiv.org/pdf/1605.07766.pdf|两种方法，方法一是在普通的词向量的目标函数中加上同义词和反义词的正则；方法二是给词向量的各个特征re－weight，能区分反义词的特征加大权重|
-|Evaluating semantic relations in neural word embeddings with biomedical and general domain knowledge bases||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6069806/||
+|Evaluating semantic relations in neural word embeddings with biomedical and general domain knowledge bases||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6069806/|评测三种词向量在semantic task的效果|
 
 # 2018 NIPS Best Paper
 |    论文题目    |   关键词＋概述   | 下载路径 | 说明（创新点） |
