@@ -40,7 +40,6 @@
 |Distilled Wasserstein Learning for Word Embedding and Topic Modeling|2018|http://120.52.51.16/papers.nips.cc/paper/7443-distilled-wasserstein-learning-for-word-embedding-and-topic-modeling.pdf||
 |Multi-Task Label Embedding for Text Classification|2018|http://aclweb.org/anthology/D18-1484||
 |Factors Influencing the Surprising Instability of Word Embeddings|2018|https://arxiv.org/pdf/1804.09692.pdf||
-|Improving the Accuracy of Pre-trained Word Embeddings for Sentiment Analysis|2017|https://arxiv.org/ftp/arxiv/papers/1711/1711.08609.pdf||
 |The Interplay of Semantics and Morphology in Word Embedding|2017|https://arxiv.org/pdf/1704.01938.pdf||
 |Joint Embedding of Words and Labels for Text Classification|2018|https://arxiv.org/pdf/1805.04174.pdf||
 |Domain Separation Networks|2016|http://120.52.51.17/papers.nips.cc/paper/6254-domain-separation-networks.pdf||
