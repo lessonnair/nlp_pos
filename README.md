@@ -35,6 +35,7 @@
 |Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers|2018|https://arxiv.org/pdf/1801.04354.pdf||
 |Adversarial Training for Relation Extraction|2017|http://www.aclweb.org/anthology/D17-1187||
 |Adversarial Feature Matching for Text Generation|2017|https://arxiv.org/pdf/1706.03850.pdf||
+|From Word to Sense Embeddings: A Survey on Vector Representations of Meaning|2018|https://arxiv.org/pdf/1805.04032.pdf||
 
 
 # 2018 NIPS Best Paper
