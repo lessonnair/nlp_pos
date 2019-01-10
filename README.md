@@ -37,6 +37,7 @@
 |Adversarial Feature Matching for Text Generation|2017|https://arxiv.org/pdf/1706.03850.pdf||
 |From Word to Sense Embeddings: A Survey on Vector Representations of Meaning|2018|https://arxiv.org/pdf/1805.04032.pdf||
 |Jointly Learning Word Embeddings and Latent Topics|2017|https://arxiv.org/pdf/1706.07276.pdf||
+|Distilled Wasserstein Learning for Word Embedding and Topic Modeling|2018|http://120.52.51.16/papers.nips.cc/paper/7443-distilled-wasserstein-learning-for-word-embedding-and-topic-modeling.pdf||
 
 
 # 2018 NIPS Best Paper
