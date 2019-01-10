@@ -36,7 +36,7 @@
 |Adversarial Training for Relation Extraction|2017|http://www.aclweb.org/anthology/D17-1187||
 |Adversarial Feature Matching for Text Generation|2017|https://arxiv.org/pdf/1706.03850.pdf||
 |From Word to Sense Embeddings: A Survey on Vector Representations of Meaning|2018|https://arxiv.org/pdf/1805.04032.pdf||
-|Jointly Learning Word Embeddings and Latent Topics|2017|https://arxiv.org/pdf/1706.07276.pdf||
+|Jointly Learning Word Embeddings and Latent Topics|2017，联合训练特定topic的embedding |https://arxiv.org/pdf/1706.07276.pdf|借鉴LDA的思想，给标准的skip-gram模型加上主题因子，用EM算法进行迭代优化|
 |Distilled Wasserstein Learning for Word Embedding and Topic Modeling|2018|http://120.52.51.16/papers.nips.cc/paper/7443-distilled-wasserstein-learning-for-word-embedding-and-topic-modeling.pdf||
 |Multi-Task Label Embedding for Text Classification|2018|http://aclweb.org/anthology/D18-1484||
 |Factors Influencing the Surprising Instability of Word Embeddings|2018|https://arxiv.org/pdf/1804.09692.pdf||
