@@ -34,6 +34,7 @@
 |SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors|2018|https://arxiv.org/pdf/1808.06068|1、基于PMI构造无监督特征，进而得到无监督关系；2、使用AutoEncoder进行去噪。 3、方法思路挺好，但是感觉效果提升不大|
 |Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers|2018|https://arxiv.org/pdf/1801.04354.pdf||
 |Adversarial Training for Relation Extraction|2017|http://www.aclweb.org/anthology/D17-1187||
+|Adversarial Feature Matching for Text Generation|2017|https://arxiv.org/pdf/1706.03850.pdf||
 
 
 # 2018 NIPS Best Paper
