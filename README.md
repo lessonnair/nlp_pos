@@ -43,6 +43,7 @@
 |Improving the Accuracy of Pre-trained Word Embeddings for Sentiment Analysis|2017|https://arxiv.org/ftp/arxiv/papers/1711/1711.08609.pdf||
 |The Interplay of Semantics and Morphology in Word Embedding|2017|https://arxiv.org/pdf/1704.01938.pdf||
 |Joint Embedding of Words and Labels for Text Classification|2018|https://arxiv.org/pdf/1805.04174.pdf||
+|Domain Separation Networks|2016|http://120.52.51.17/papers.nips.cc/paper/6254-domain-separation-networks.pdf||
 
 
 # 2018 NIPS Best Paper
