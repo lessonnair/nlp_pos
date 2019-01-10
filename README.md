@@ -31,6 +31,7 @@
 |Refining Word Embeddings for Sentiment Analysis|2018，使用单词极性信息进行有监督refine|https://www.aclweb.org/anthology/D17-1056|取一个词的top k个最近的词向量，然后使用对应的极性分数对词进行重排序，并将这个重排序的作用反馈到原向量|
 |Retrofitting Word Vectors to Semantic Lexicons|2014，使用辞典的语义信息进行词向量的refine|https://arxiv.org/pdf/1411.4166.pdf|和这篇Refining Word Embeddings for Sentiment Analysis基本一样|
 |Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation|2018|http://www.aclweb.org/anthology/D18-1520||
+|SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors|2018|https://arxiv.org/pdf/1808.06068||
 
 # 2018 NIPS Best Paper
 |    论文题目    |   关键词＋概述   | 下载路径 | 说明（创新点） |
