@@ -32,7 +32,7 @@
 |Retrofitting Word Vectors to Semantic Lexicons|2014，使用辞典的语义信息进行词向量的refine|https://arxiv.org/pdf/1411.4166.pdf|和这篇Refining Word Embeddings for Sentiment Analysis基本一样|
 |Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation|2018|http://www.aclweb.org/anthology/D18-1520||
 |SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors|2018|https://arxiv.org/pdf/1808.06068|1、基于PMI构造无监督特征，进而得到无监督关系；2、使用AutoEncoder进行去噪。 3、方法思路挺好，但是感觉效果提升不大|
-|Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM|2018|http://sentic.net/sentic-lstm.pdf||
+
 
 # 2018 NIPS Best Paper
 |    论文题目    |   关键词＋概述   | 下载路径 | 说明（创新点） |
