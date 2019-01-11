@@ -41,7 +41,7 @@
 |Multi-Task Label Embedding for Text Classification|2018|http://aclweb.org/anthology/D18-1484||
 |Factors Influencing the Surprising Instability of Word Embeddings|2018|https://arxiv.org/pdf/1804.09692.pdf||
 |The Interplay of Semantics and Morphology in Word Embedding|2017|https://arxiv.org/pdf/1704.01938.pdf||
-|Joint Embedding of Words and Labels for Text Classification|2018|https://arxiv.org/pdf/1805.04174.pdf||
+|Joint Embedding of Words and Labels for Text Classification|2018 有监督|https://arxiv.org/pdf/1805.04174.pdf|将label嵌入到词向量空间，通过label和词的相似度矩阵构建attention权值|
 |Domain Separation Networks|2016|http://120.52.51.17/papers.nips.cc/paper/6254-domain-separation-networks.pdf||
 
 
