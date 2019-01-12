@@ -33,7 +33,7 @@
 |Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation|2018|http://www.aclweb.org/anthology/D18-1520||
 |SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors|2018|https://arxiv.org/pdf/1808.06068|1、基于PMI构造无监督特征，进而得到无监督关系；2、使用AutoEncoder进行去噪。 3、方法思路挺好，但是感觉效果提升不大|
 |Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers|2018|https://arxiv.org/pdf/1801.04354.pdf||
-|Adversarial Training for Relation Extraction|2017|http://www.aclweb.org/anthology/D17-1187||
+|Adversarial Training for Relation Extraction|2017，对抗学习|http://www.aclweb.org/anthology/D17-1187|使用对抗样本提高分类器的稳定性|
 |Adversarial Feature Matching for Text Generation|2017|https://arxiv.org/pdf/1706.03850.pdf||
 |From Word to Sense Embeddings: A Survey on Vector Representations of Meaning|2018|https://arxiv.org/pdf/1805.04032.pdf||
 |Jointly Learning Word Embeddings and Latent Topics|2017，联合训练特定topic的embedding |https://arxiv.org/pdf/1706.07276.pdf|借鉴LDA的思想，给标准的skip-gram模型加上主题因子，用EM算法进行迭代优化|
