@@ -38,7 +38,7 @@
 |From Word to Sense Embeddings: A Survey on Vector Representations of Meaning|2018|https://arxiv.org/pdf/1805.04032.pdf||
 |Jointly Learning Word Embeddings and Latent Topics|2017，联合训练特定topic的embedding |https://arxiv.org/pdf/1706.07276.pdf|借鉴LDA的思想，给标准的skip-gram模型加上主题因子，用EM算法进行迭代优化|
 |Distilled Wasserstein Learning for Word Embedding and Topic Modeling|2018|http://120.52.51.16/papers.nips.cc/paper/7443-distilled-wasserstein-learning-for-word-embedding-and-topic-modeling.pdf||
-|Multi-Task Label Embedding for Text Classification|2018|http://aclweb.org/anthology/D18-1484||
+|Multi-Task Label Embedding for Text Classification|2018|http://aclweb.org/anthology/D18-1484|多任务学习，label embedding|
 |Factors Influencing the Surprising Instability of Word Embeddings|2018|https://arxiv.org/pdf/1804.09692.pdf||
 |The Interplay of Semantics and Morphology in Word Embedding|2017|https://arxiv.org/pdf/1704.01938.pdf||
 |Joint Embedding of Words and Labels for Text Classification|2018 有监督|https://arxiv.org/pdf/1805.04174.pdf|将label嵌入到词向量空间，通过label和词的相似度矩阵构建attention权值|
