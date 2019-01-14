@@ -35,7 +35,7 @@
 |Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers|2018|https://arxiv.org/pdf/1801.04354.pdf||
 |Adversarial Training for Relation Extraction|2017，对抗学习|http://www.aclweb.org/anthology/D17-1187|使用对抗样本提高分类器的稳定性|
 |Adversarial Feature Matching for Text Generation|2017,文本生成|https://arxiv.org/pdf/1706.03850.pdf|在标准的gan loss中加入了 Maximum Mean Discrepancy 项。通过将文本map到某个feature空间，然后再通过RKHS技术进行相似度的度量|
-|From Word to Sense Embeddings: A Survey on Vector Representations of Meaning|2018|https://arxiv.org/pdf/1805.04032.pdf||
+|From Word to Sense Embeddings: A Survey on Vector Representations of Meaning|2018|https://arxiv.org/pdf/1805.04032.pdf|写的比较凌乱|
 |Jointly Learning Word Embeddings and Latent Topics|2017，联合训练特定topic的embedding |https://arxiv.org/pdf/1706.07276.pdf|借鉴LDA的思想，给标准的skip-gram模型加上主题因子，用EM算法进行迭代优化|
 |Distilled Wasserstein Learning for Word Embedding and Topic Modeling|2018|http://120.52.51.16/papers.nips.cc/paper/7443-distilled-wasserstein-learning-for-word-embedding-and-topic-modeling.pdf||
 |Multi-Task Label Embedding for Text Classification|2018|http://aclweb.org/anthology/D18-1484|多任务学习，label embedding|
