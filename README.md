@@ -40,8 +40,8 @@
 |Distilled Wasserstein Learning for Word Embedding and Topic Modeling|2018|http://120.52.51.16/papers.nips.cc/paper/7443-distilled-wasserstein-learning-for-word-embedding-and-topic-modeling.pdf||
 |Multi-Task Label Embedding for Text Classification|2018|http://aclweb.org/anthology/D18-1484|多任务学习，label embedding|
 |Factors Influencing the Surprising Instability of Word Embeddings|2018|https://arxiv.org/pdf/1804.09692.pdf||
-|The Interplay of Semantics and Morphology in Word Embedding|2017|https://arxiv.org/pdf/1704.01938.pdf|词的相似性分为语义相似性和词态相似性；若想增加semantic similarity，可以使用lemma，但会损害 morphology similarity|
-|Joint Embedding of Words and Labels for Text Classification|2018 有监督|https://arxiv.org/pdf/1805.04174.pdf|将label嵌入到词向量空间，通过label和词的相似度矩阵构建attention权值|
+|The Interplay of Semantics and Morphology in Word Embedding|2017|https://arxiv.org/pdf/1704.01938.pdf https://github.com/oavraham1/prop2vec  https://github.com/oavraham1/ag-evaluation |词的相似性分为语义相似性和词态相似性；若想增加semantic similarity，可以使用lemma，但会损害 morphology similarity|
+|Joint Embedding of Words and Labels for Text Classification|2018 有监督|https://arxiv.org/pdf/1805.04174.pdf https://github.com/guoyinwang/LEAM|将label嵌入到词向量空间，通过label和词的相似度矩阵构建attention权值|
 |Domain Separation Networks|2016|http://120.52.51.17/papers.nips.cc/paper/6254-domain-separation-networks.pdf||
 |RAND-WALK: A Latent Variable Model Approach to Word Embeddings|2016|https://arxiv.org/pdf/1502.03520  https://github.com/YingyuLiang/SemanticVector||
 |Linear Algebraic Structure of Word Senses, with Applications to Polysemy|2018|https://arxiv.org/pdf/1601.03764  https://github.com/YingyuLiang/SemanticVector||
