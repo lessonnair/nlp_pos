@@ -30,7 +30,7 @@
 |Evaluating semantic relations in neural word embeddings with biomedical and general domain knowledge bases|评测词向量捕捉到的各种语义或语法关系|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6069806/|评测三种词向量在semantic task的效果；词向量捕捉的关系有8种https://github.com/zwChan/Wordembedding-and-semantics|
 |Refining Word Embeddings for Sentiment Analysis|2018，使用单词极性信息进行有监督refine|https://www.aclweb.org/anthology/D17-1056|取一个词的top k个最近的词向量，然后使用对应的极性分数对词进行重排序，并将这个重排序的作用反馈到原向量|
 |Retrofitting Word Vectors to Semantic Lexicons|2014，使用辞典的语义信息进行词向量的refine|https://arxiv.org/pdf/1411.4166.pdf|和这篇Refining Word Embeddings for Sentiment Analysis基本一样|
-|Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation|2018|http://www.aclweb.org/anthology/D18-1520 , https://pdfs.semanticscholar.org/17a2/73bbd4448083b01b5a9389b3c37f5425aac0.pdf|让特征相关分数按layer进行后向传播进行refine词向量；|
+|Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation|2018|http://www.aclweb.org/anthology/D18-1520 , http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.780.435&rep=rep1&type=pdf|让特征相关分数按layer进行后向传播进行refine词向量；|
 |SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors|2018|https://arxiv.org/pdf/1808.06068|1、基于PMI构造无监督特征，进而得到无监督关系；2、使用AutoEncoder进行去噪。 3、方法思路挺好，但是感觉效果提升不大|
 |Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers|2018|https://arxiv.org/pdf/1801.04354.pdf||
 |Adversarial Training for Relation Extraction|2017，对抗学习|http://www.aclweb.org/anthology/D17-1187|使用对抗样本提高分类器的稳定性|
