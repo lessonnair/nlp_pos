@@ -33,7 +33,7 @@
 |Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation|2018|http://www.aclweb.org/anthology/D18-1520 , http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.780.435&rep=rep1&type=pdf|让特征相关分数按layer进行后向传播进行refine词向量；|
 |SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors|2018|https://arxiv.org/pdf/1808.06068|1、基于PMI构造无监督特征，进而得到无监督关系；2、使用AutoEncoder进行去噪。 3、方法思路挺好，但是感觉效果提升不大|
 |Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers|2018|https://arxiv.org/pdf/1801.04354.pdf||
-|Adversarial Training for Relation Extraction|2017，对抗学习|http://www.aclweb.org/anthology/D17-1187|使用对抗样本提高分类器的稳定性|
+|Adversarial Training for Relation Extraction|2017，对抗学习|http://www.aclweb.org/anthology/D17-1187  https://github.com/jxwuyi/AtNRE|使用对抗样本提高分类器的稳定性|
 |Adversarial Feature Matching for Text Generation|2017,文本生成|https://arxiv.org/pdf/1706.03850.pdf|在标准的gan loss中加入了 Maximum Mean Discrepancy 项。通过将文本map到某个feature空间，然后再通过RKHS技术进行相似度的度量|
 |From Word to Sense Embeddings: A Survey on Vector Representations of Meaning|2018|https://arxiv.org/pdf/1805.04032.pdf|写的比较凌乱|
 |Jointly Learning Word Embeddings and Latent Topics|2017，联合训练特定topic的embedding |https://arxiv.org/pdf/1706.07276.pdf|借鉴LDA的思想，给标准的skip-gram模型加上主题因子，用EM算法进行迭代优化|
@@ -43,6 +43,8 @@
 |The Interplay of Semantics and Morphology in Word Embedding|2017|https://arxiv.org/pdf/1704.01938.pdf|词的相似性分为语义相似性和词态相似性；若想增加semantic similarity，可以使用lemma，但会损害 morphology similarity|
 |Joint Embedding of Words and Labels for Text Classification|2018 有监督|https://arxiv.org/pdf/1805.04174.pdf|将label嵌入到词向量空间，通过label和词的相似度矩阵构建attention权值|
 |Domain Separation Networks|2016|http://120.52.51.17/papers.nips.cc/paper/6254-domain-separation-networks.pdf||
+|RAND-WALK: A Latent Variable Model Approach to Word Embeddings|2016|https://arxiv.org/pdf/1502.03520  https://github.com/YingyuLiang/SemanticVector||
+|Linear Algebraic Structure of Word Senses, with Applications to Polysemy|2018|https://arxiv.org/pdf/1601.03764  https://github.com/YingyuLiang/SemanticVector||
 
 
 # 2018 NIPS Best Paper
