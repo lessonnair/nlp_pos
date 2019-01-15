@@ -26,10 +26,10 @@
 |Phrase-Based & Neural Unsupervised Machine Translation|非监督机器翻译|https://arxiv.org/pdf/1804.07755.pdf||
 |Unsupervised Part-of-Speech Taggingwith Bilingual Graph-Based Projections|非监督 POS Tagging|https://aclanthology.info/pdf/P/P11/P11-1061.pdf||
 |Distinguishing Antonyms and Synonyms in a Pattern-based Neural Network|有监督训练word pair关系|https://arxiv.org/pdf/1701.02962.pdf|借助 parse tree 特征有监督训练反义word pair，基本假设是在同一句话里，反义词同时出现的概率大于同义词同时出现的概率|
-|Integrating Distributional Lexical Contrast into Word Embeddings for Antonym–Synonym Distinction|训练能区分同义词的embedding|https://arxiv.org/pdf/1605.07766.pdf|两种方法，方法一是在普通的词向量的目标函数中加上同义词和反义词的正则；方法二是给词向量的各个特征re－weight，能区分反义词的特征加大权重|
-|Evaluating semantic relations in neural word embeddings with biomedical and general domain knowledge bases|评测词向量捕捉到的各种语义或语法关系|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6069806/|评测三种词向量在semantic task的效果；词向量捕捉的关系有8种https://github.com/zwChan/Wordembedding-and-semantics|
+|Integrating Distributional Lexical Contrast into Word Embeddings for Antonym–Synonym Distinction|训练能区分同义词的embedding|https://arxiv.org/pdf/1605.07766.pdf  https://github.com/nguyenkh/AntSynDistinction |两种方法，方法一是在普通的词向量的目标函数中加上同义词和反义词的正则；方法二是给词向量的各个特征re－weight，能区分反义词的特征加大权重|
+|Evaluating semantic relations in neural word embeddings with biomedical and general domain knowledge bases|评测词向量捕捉到的各种语义或语法关系|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6069806/  https://github.com/zwChan/Wordembedding-and-semantics|评测三种词向量在semantic task的效果；词向量捕捉的关系有8种|
 |Refining Word Embeddings for Sentiment Analysis|2018，使用单词极性信息进行有监督refine|https://www.aclweb.org/anthology/D17-1056|取一个词的top k个最近的词向量，然后使用对应的极性分数对词进行重排序，并将这个重排序的作用反馈到原向量|
-|Retrofitting Word Vectors to Semantic Lexicons|2014，使用辞典的语义信息进行词向量的refine|https://arxiv.org/pdf/1411.4166.pdf|和这篇Refining Word Embeddings for Sentiment Analysis基本一样|
+|Retrofitting Word Vectors to Semantic Lexicons|2014，使用辞典的语义信息进行词向量的refine|https://arxiv.org/pdf/1411.4166.pdf  https://github.com/mfaruqui/retrofitting|和这篇Refining Word Embeddings for Sentiment Analysis基本一样|
 |Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation|2018|http://www.aclweb.org/anthology/D18-1520 , http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.780.435&rep=rep1&type=pdf|让特征相关分数按layer进行后向传播进行refine词向量；|
 |SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors|2018|https://arxiv.org/pdf/1808.06068|1、基于PMI构造无监督特征，进而得到无监督关系；2、使用AutoEncoder进行去噪。 3、方法思路挺好，但是感觉效果提升不大|
 |Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers|2018|https://arxiv.org/pdf/1801.04354.pdf||
