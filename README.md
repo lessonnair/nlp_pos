@@ -44,7 +44,7 @@
 |Joint Embedding of Words and Labels for Text Classification|2018 有监督|https://arxiv.org/pdf/1805.04174.pdf https://github.com/guoyinwang/LEAM|将label嵌入到词向量空间，通过label和词的相似度矩阵构建attention权值|
 |Domain Separation Networks|2016|http://120.52.51.17/papers.nips.cc/paper/6254-domain-separation-networks.pdf||
 |RAND-WALK: A Latent Variable Model Approach to Word Embeddings|2016|https://arxiv.org/pdf/1502.03520  https://github.com/YingyuLiang/SemanticVector||
-|Linear Algebraic Structure of Word Senses, with Applications to Polysemy|2018|https://arxiv.org/pdf/1601.03764  https://github.com/YingyuLiang/SemanticVector||
+|Linear Algebraic Structure of Word Senses, with Applications to Polysemy|2016|https://arxiv.org/pdf/1601.03764  https://github.com/YingyuLiang/SemanticVector||
 
 
 # 2018 NIPS Best Paper
