@@ -51,12 +51,12 @@
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
 | ----------- | ------------------- | -------- | -------|--------|
 |Word Similarity|RG-65|spearman cor 0.920|Pilehvar and Navigli (2015) Knowledge-based (Wiktionary) https://github.com/vecto-ai/word-benchmarks|0.8177|
-|Word Similarity|WordSimilarity-353|spearman cor 0.828|https://github.com/vecto-ai/word-benchmarks|ConceptNet Numberbatch Hybrid	Speer et al. (2017)	|0.6278|
-|Word Similarity|SimLex-999|spearman cor 0.642|https://github.com/vecto-ai/word-benchmarks|SVR4 combine Banjade et al. (2015)[5]|0.4960|
-|Syntactic Relations|Google Analogy中的morphological relations|69.3	|https://github.com/vecto-ai/word-benchmarks http://llcao.net/cu-deeplearning15/presentation/nn-pres.pdf||
-|Synonym Selection|TOEFL Synonym Questions|100.00%|Bullinaria and Levy (2012)	||
+|Word Similarity|WordSimilarity-353|spearman cor 0.828|https://github.com/vecto-ai/word-benchmarks ConceptNet Numberbatch Hybrid	Speer et al. (2017)	|0.6278|
+|Word Similarity|SimLex-999|spearman cor 0.642|https://github.com/vecto-ai/word-benchmarks SVR4 combine Banjade et al. (2015)[5]|0.4960|
+|Syntactic Relations|Google Analogy中的morphological relations|69.3	|https://github.com/vecto-ai/word-benchmarks http://llcao.net/cu-deeplearning15/presentation/nn-pres.pdf|67.0|
+|Synonym Selection|TOEFL Synonym Questions|100.00%|Bullinaria and Levy (2012)	|95%|
 |Sentiment Analysis|IMDb|Accuracy 95.4|https://arxiv.org/abs/1801.06146 https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf https://github.com/akzaidi/fine-lm||
-|Named entity recognition|CoNLL 2003 (English)|f1值 93.09|https://drive.google.com/file/d/17yVpFA7MmXaQFTe-HDpZuqw9fJlmzg56/view https://github.com/zalandoresearch/flair||
+|Named entity recognition|CoNLL 2003 (English)|f1值 93.09|https://drive.google.com/file/d/17yVpFA7MmXaQFTe-HDpZuqw9fJlmzg56/view https://github.com/zalandoresearch/flair|91.9|
 
 ## 两个可以看效果的链接地址
 - https://aclweb.org/aclwiki/RG-65_Test_Collection_(State_of_the_art)
