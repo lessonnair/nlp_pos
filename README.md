@@ -50,11 +50,15 @@
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 数据链接以及代码 | 现状值
 | ----------- | ------------------- | -------- | -------|--------|
-|Word Similarity|||||
-|Syntactic Relations|||||
+|Word Similarity|||https://github.com/vecto-ai/word-benchmarks||
+|Syntactic Relations|Google Analogy中的morphological relations||https://github.com/vecto-ai/word-benchmarks||
 |Synonym Selection|||||
 |Sentiment Analysis|IMDb|Accuracy 95.4|https://arxiv.org/abs/1801.06146 https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf||
 |Named entity recognition|CoNLL 2003 (English)|f1值 93.09|https://drive.google.com/file/d/17yVpFA7MmXaQFTe-HDpZuqw9fJlmzg56/view https://github.com/zalandoresearch/flair||
+
+两个可以看效果的链接地址
+https://aclweb.org/aclwiki/RG-65_Test_Collection_(State_of_the_art)
+https://github.com/sebastianruder/NLP-progress
 
 # 2018 NIPS Best Paper
 |    论文题目    |   关键词＋概述   | 下载路径 | 说明（创新点） |
