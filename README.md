@@ -48,12 +48,12 @@
 
 
 # 几种NLP任务state of the art水平
-|    任务名称    |   数据集   | 效果 | 数据链接以及代码 |
-| ----------- | ------------------- | -------- | -------|
-|Word Similarity||||
-|Syntactic Relations||||
-|Synonym Selection||||
-|Sentiment Analysis||||
+|    任务名称    |   数据集   | 目前别人最优值 | 数据链接以及代码 | 现状值
+| ----------- | ------------------- | -------- | -------|--------|
+|Word Similarity|||||
+|Syntactic Relations|||||
+|Synonym Selection|||||
+|Sentiment Analysis|||||
 
 # 2018 NIPS Best Paper
 |    论文题目    |   关键词＋概述   | 下载路径 | 说明（创新点） |
