@@ -48,9 +48,11 @@
 
 
 # 几种NLP任务state of the art水平
-|    任务名称    |   数据集+描述   | 目前别人最优值 | 数据链接以及代码 | 现状值
+|    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
 | ----------- | ------------------- | -------- | -------|--------|
-|Word Similarity|||https://github.com/vecto-ai/word-benchmarks||
+|Word Similarity|RG-65|spearman cor 0.920|Pilehvar and Navigli (2015) Knowledge-based (Wiktionary) https://github.com/vecto-ai/word-benchmarks|0.8177|
+|Word Similarity|WordSimilarity-353|spearman cor 0.828|https://github.com/vecto-ai/word-benchmarks|ConceptNet Numberbatch Hybrid	Speer et al. (2017)	|0.6278|
+|Word Similarity|SimLex-999|spearman cor 0.642|https://github.com/vecto-ai/word-benchmarks|SVR4 combine Banjade et al. (2015)[5]|0.4960|
 |Syntactic Relations|Google Analogy中的morphological relations|69.3	|https://github.com/vecto-ai/word-benchmarks http://llcao.net/cu-deeplearning15/presentation/nn-pres.pdf||
 |Synonym Selection|TOEFL Synonym Questions|100.00%|Bullinaria and Levy (2012)	||
 |Sentiment Analysis|IMDb|Accuracy 95.4|https://arxiv.org/abs/1801.06146 https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf https://github.com/akzaidi/fine-lm||
