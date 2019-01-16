@@ -52,8 +52,8 @@
 | ----------- | ------------------- | -------- | -------|--------|
 |Word Similarity|||https://github.com/vecto-ai/word-benchmarks||
 |Syntactic Relations|Google Analogy中的morphological relations||https://github.com/vecto-ai/word-benchmarks||
-|Synonym Selection|||||
-|Sentiment Analysis|IMDb|Accuracy 95.4|https://arxiv.org/abs/1801.06146 https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf||
+|Synonym Selection|TOEFL Synonym Questions|100.00%|Bullinaria and Levy (2012)	||
+|Sentiment Analysis|IMDb|Accuracy 95.4|https://arxiv.org/abs/1801.06146 https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf https://github.com/akzaidi/fine-lm||
 |Named entity recognition|CoNLL 2003 (English)|f1值 93.09|https://drive.google.com/file/d/17yVpFA7MmXaQFTe-HDpZuqw9fJlmzg56/view https://github.com/zalandoresearch/flair||
 
 两个可以看效果的链接地址
