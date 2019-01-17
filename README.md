@@ -45,6 +45,7 @@
 |Domain Separation Networks|2016|http://120.52.51.17/papers.nips.cc/paper/6254-domain-separation-networks.pdf||
 |RAND-WALK: A Latent Variable Model Approach to Word Embeddings|2016|https://arxiv.org/pdf/1502.03520  https://github.com/YingyuLiang/SemanticVector||
 |Linear Algebraic Structure of Word Senses, with Applications to Polysemy|2016|https://arxiv.org/pdf/1601.03764  https://github.com/YingyuLiang/SemanticVector||
+|Querying Word Embeddings for Similarity and Relatedness|2018|http://aclweb.org/anthology/N18-1062||
 
 
 # 几种NLP任务state of the art水平
