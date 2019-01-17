@@ -47,7 +47,7 @@
 |Linear Algebraic Structure of Word Senses, with Applications to Polysemy|2016|https://arxiv.org/pdf/1601.03764  https://github.com/YingyuLiang/SemanticVector||
 |Querying Word Embeddings for Similarity and Relatedness|2018|http://aclweb.org/anthology/N18-1062||
 |A Rank-Based Similarity Metric for Word Embeddings|2018|https://arxiv.org/pdf/1805.01923.pdf||
-|Improving Word Embeddings with Convolutional Feature Learning and Subword Information|2017|https://www.researchgate.net/publication/311314265_Short_Text_Similarity_with_Word_Embeddings||
+|Improving Word Embeddings with Convolutional Feature Learning and Subword Information|2017|https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14724/14187||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
