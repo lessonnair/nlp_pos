@@ -46,7 +46,7 @@
 |RAND-WALK: A Latent Variable Model Approach to Word Embeddings|2016|https://arxiv.org/pdf/1502.03520  https://github.com/YingyuLiang/SemanticVector||
 |Linear Algebraic Structure of Word Senses, with Applications to Polysemy|2016|https://arxiv.org/pdf/1601.03764  https://github.com/YingyuLiang/SemanticVector||
 |Querying Word Embeddings for Similarity and Relatedness|2018|http://aclweb.org/anthology/N18-1062||
-
+|A Rank-Based Similarity Metric for Word Embeddings|2018|https://arxiv.org/pdf/1805.01923.pdf||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
