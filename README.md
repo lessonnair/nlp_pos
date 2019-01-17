@@ -49,6 +49,8 @@
 |A Rank-Based Similarity Metric for Word Embeddings|2018|https://arxiv.org/pdf/1805.01923.pdf||
 |Improving Word Embeddings with Convolutional Feature Learning and Subword Information|2017|https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14724/14187||
 |Computing Text Similarity using Tree Edit Distance|2015|http://www.cic.ipn.mx/~sidorov/sngrams_ted_2015.pdf||
+|Normalisation of Historical Text Using Context-Sensitive Weighted Levenshtein Distance and Compound Splitting|2013|http://120.52.51.13/www.ep.liu.se/ecp/085/017/ecp1385017.pdf||
+|Explicit Retrofitting of Distributional Word Vectors|2018|http://www.aclweb.org/anthology/P18-1004||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
