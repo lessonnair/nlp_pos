@@ -48,6 +48,7 @@
 |Querying Word Embeddings for Similarity and Relatedness|2018|http://aclweb.org/anthology/N18-1062||
 |A Rank-Based Similarity Metric for Word Embeddings|2018|https://arxiv.org/pdf/1805.01923.pdf||
 |Improving Word Embeddings with Convolutional Feature Learning and Subword Information|2017|https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14724/14187||
+|Computing Text Similarity using Tree Edit Distance|2015|http://www.cic.ipn.mx/~sidorov/sngrams_ted_2015.pdf||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
