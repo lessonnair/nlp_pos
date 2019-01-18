@@ -52,7 +52,7 @@
 |[Normalisation of Historical Text Using Context-Sensitive Weighted Levenshtein Distance and Compound Splitting](http://120.52.51.13/www.ep.liu.se/ecp/085/017/ecp1385017.pdf)|2013|||
 |[Explicit Retrofitting of Distributional Word Vectors](http://www.aclweb.org/anthology/P18-1004)|2018||使用nn拟合一个新的度量空间映射，使得在新的度量空间里满足同义反义词距离条件，且保持愿空间的拓扑结构；还可借鉴一种数据增强方法|
 |[Unsupervised Learning of Style-sensitive Word Vectors](http://aclweb.org/anthology/P18-2091)|2018，可捕捉 Stylistic Similarity版的CBOW||为捕捉 semantic and syntactic similarities，使用context预测target；为了捕捉Stylistic Similarity，使用非context预测target|
-|[Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization](https://arxiv.org/pdf/1809.04163.pdf)|2018，对抗学习，词向量微调|[代码地址](https://github.com/cambridgeltl/adversarial-postspec)||
+|[Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization](https://arxiv.org/pdf/1809.04163.pdf)|2018，对抗学习，词向量微调|[代码地址](https://github.com/cambridgeltl/adversarial-postspec)|使用gan拟合一个新的度量空间映射，同时使用L2保持原词向量空间的拓扑结构不变|
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
