@@ -47,7 +47,7 @@
 |[Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://arxiv.org/pdf/1601.03764)|2016|  [代码地址](https://github.com/YingyuLiang/SemanticVector)||
 |[Querying Word Embeddings for Similarity and Relatedness](http://aclweb.org/anthology/N18-1062)|2018|||
 |[A Rank-Based Similarity Metric for Word Embeddings](https://arxiv.org/pdf/1805.01923.pdf)|2018|||
-|[Improving Word Embeddings with Convolutional Feature Learning and Subword Information](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14724/14187|)|2017||
+|[Improving Word Embeddings with Convolutional Feature Learning and Subword Information](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14724/14187)|2017||
 |[Computing Text Similarity using Tree Edit Distance](http://www.cic.ipn.mx/~sidorov/sngrams_ted_2015.pdf)|2015|||
 |[Normalisation of Historical Text Using Context-Sensitive Weighted Levenshtein Distance and Compound Splitting](http://120.52.51.13/www.ep.liu.se/ecp/085/017/ecp1385017.pdf)|2013|||
 |[Explicit Retrofitting of Distributional Word Vectors](http://www.aclweb.org/anthology/P18-1004)|2018||使用nn拟合一个新的度量空间映射，使得在新的度量空间里满足同义反义词距离条件，且保持愿空间的拓扑结构；还可借鉴一种数据增强方法|
