@@ -59,6 +59,19 @@
 |[Learning Domain-Sensitive and Sentiment-Aware Word Embeddings](http://aclweb.org/anthology/P18-1232)|2018 acl|||
 |[Using pseudo-senses for improving the extraction of synonyms from word embeddings](http://aclweb.org/anthology/P18-2056)|2018 acl|||
 |[Domain Adapted Word Embeddings for Improved Sentiment Classification](https://aclanthology.info/papers/P18-2007/p18-2007)|2018 acl|||
+|[Auto-Encoding Dictionary Definitions into Consistent Word Embeddings](https://aclanthology.info/papers/D18-1181/d18-1181)|2018 emnlp|||
+|[Gromov-Wasserstein Alignment of Word Embedding Spaces](https://aclanthology.info/papers/D18-1214/d18-1214)|2018 emnlp|||
+|[Word Relation Autoencoder for Unseen Hypernym Extraction Using Word Embeddings](https://aclanthology.info/papers/D18-1519/d18-1519)|2018 emnlp|||
+|[Learning Gender-Neutral Word Embeddings](https://aclanthology.info/papers/D18-1521/d18-1521)|2018 emnlp|||
+|[Specialising Word Vectors for Lexical Entailment](https://aclanthology.info/papers/N18-1103/n18-1103)|2018 naacl|||
+|[DeepAlignment: Unsupervised Ontology Matching with Refined Word Vectors](https://aclanthology.info/papers/N18-1072/n18-1072)|2018 naacl|||
+|[Enhanced Word Representations for Bridging Anaphora Resolution](https://aclanthology.info/papers/N18-2001/n18-2001)|2018 naacl|||
+|[From Text to Lexicon: Bridging the Gap between Word Embeddings and Lexical Resources](https://aclanthology.info/papers/C18-1020/c18-1020)|2018 coling|||
+|[Enriching Word Embeddings with Domain Knowledge for Readability Assessment](https://aclanthology.info/papers/C18-1031/c18-1031)|2018 coling|||
+|[Relation Induction in Word Embeddings Revisited](https://aclanthology.info/papers/C18-1138/c18-1138)|2018 coling|||
+|[SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors](https://aclanthology.info/papers/C18-1225/c18-1225)|2018 coling|||
+|[Encoding Sentiment Information into Word Vectors for Sentiment Analysis](https://aclanthology.info/papers/C18-1085/c18-1085)|2018 coling|||
+|[Word Sense Disambiguation Based on Word Similarity Calculation Using Word Vector Representation from a Knowledge-based Graph](https://aclanthology.info/papers/C18-1229/c18-1229)|2018 coling|||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
