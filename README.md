@@ -43,7 +43,7 @@
 |[The Interplay of Semantics and Morphology in Word Embedding](https://arxiv.org/pdf/1704.01938.pdf)|2017| [代码地址1](https://github.com/oavraham1/prop2vec)  [代码地址2](https://github.com/oavraham1/ag-evaluation)|词的相似性分为语义相似性和词态相似性；若想增加semantic similarity，可以使用lemma，但会损害 morphology similarity|
 |[Joint Embedding of Words and Labels for Text Classification](https://arxiv.org/pdf/1805.04174.pdf)|2018 有监督| [代码地址](https://github.com/guoyinwang/LEAM)|将label嵌入到词向量空间，通过label和词的相似度矩阵构建attention权值|
 |[Domain Separation Networks](http://120.52.51.17/papers.nips.cc/paper/6254-domain-separation-networks.pdf)|2016|||
-|[RAND-WALK: A Latent Variable Model Approach to Word Embeddings](https://arxiv.org/pdf/1502.03520)|2016| [代码地址] (https://github.com/YingyuLiang/SemanticVector)||
+|[RAND-WALK: A Latent Variable Model Approach to Word Embeddings](https://arxiv.org/pdf/1502.03520)|2016| [代码地址](https://github.com/YingyuLiang/SemanticVector)||
 |[Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://arxiv.org/pdf/1601.03764)|2016|  [代码地址](https://github.com/YingyuLiang/SemanticVector)||
 |[Querying Word Embeddings for Similarity and Relatedness](http://aclweb.org/anthology/N18-1062)|2018|||
 |[A Rank-Based Similarity Metric for Word Embeddings](https://arxiv.org/pdf/1805.01923.pdf)|2018|||
