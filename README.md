@@ -62,8 +62,7 @@
 |[DeepAlignment: Unsupervised Ontology Matching with Refined Word Vectors](https://aclanthology.info/papers/N18-1072/n18-1072)|2018 naacl|||
 |[Enhanced Word Representations for Bridging Anaphora Resolution](https://aclanthology.info/papers/N18-2001/n18-2001)|2018 naacl|||
 |[Relation Induction in Word Embeddings Revisited](https://aclanthology.info/papers/C18-1138/c18-1138)|2018 coling|||
-|[SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors](http://aclweb.org/anthology/C18-1225)|2018 coling|||
-|[Encoding Sentiment Information into Word Vectors for Sentiment Analysis](https://aclanthology.info/papers/C18-1085/c18-1085)|2018 coling|||
+|[Encoding Sentiment Information into Word Vectors for Sentiment Analysis](http://aclweb.org/anthology/C18-1085)|2018 coling|||
 |[Word Sense Disambiguation Based on Word Similarity Calculation Using Word Vector Representation from a Knowledge-based Graph](https://aclanthology.info/papers/C18-1229/c18-1229)|2018 coling|||
 
 # 几种NLP任务state of the art水平
