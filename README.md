@@ -56,13 +56,13 @@
 |[Using pseudo-senses for improving the extraction of synonyms from word embeddings](http://aclweb.org/anthology/P18-2056)|2018 acl||创新点在于将一句话拆成context－target的方式，在原有方式基础上，增加一个target在同一句话整体的context描述方式。refine词向量的方式有paragram和Retrofitting两种，它这里使用paragram|
 |[Auto-Encoding Dictionary Definitions into Consistent Word Embeddings](http://aclweb.org/anthology/D18-1181)|2018 emnlp||仅仅使用辞典定义来训练词向量，可以更好捕获词的similarity；refine词向量时也可以考虑将辞典定义这种关系考虑进去|
 |[Gromov-Wasserstein Alignment of Word Embedding Spaces](http://aclweb.org/anthology/D18-1214)|2018 emnlp|||
-|[Word Relation Autoencoder for Unseen Hypernym Extraction Using Word Embeddings](https://aclanthology.info/papers/D18-1519/d18-1519)|2018 emnlp|||
+|[Word Relation Autoencoder for Unseen Hypernym Extraction Using Word Embeddings](http://aclweb.org/anthology/D18-1519)|2018 emnlp||为了避免对训练样本过拟合（即在训练集出现对pair效果好），从对（w1，w2）建模转为 （w1，w2-w1）建模，并使用AutoEncoder|
 |[Learning Gender-Neutral Word Embeddings](https://aclanthology.info/papers/D18-1521/d18-1521)|2018 emnlp|||
 |[Specialising Word Vectors for Lexical Entailment](https://aclanthology.info/papers/N18-1103/n18-1103)|2018 naacl|||
 |[DeepAlignment: Unsupervised Ontology Matching with Refined Word Vectors](https://aclanthology.info/papers/N18-1072/n18-1072)|2018 naacl|||
 |[Enhanced Word Representations for Bridging Anaphora Resolution](https://aclanthology.info/papers/N18-2001/n18-2001)|2018 naacl|||
 |[Relation Induction in Word Embeddings Revisited](https://aclanthology.info/papers/C18-1138/c18-1138)|2018 coling|||
-|[SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors](https://aclanthology.info/papers/C18-1225/c18-1225)|2018 coling|||
+|[SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors](http://aclweb.org/anthology/C18-1225)|2018 coling|||
 |[Encoding Sentiment Information into Word Vectors for Sentiment Analysis](https://aclanthology.info/papers/C18-1085/c18-1085)|2018 coling|||
 |[Word Sense Disambiguation Based on Word Similarity Calculation Using Word Vector Representation from a Knowledge-based Graph](https://aclanthology.info/papers/C18-1229/c18-1229)|2018 coling|||
 
