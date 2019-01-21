@@ -58,7 +58,7 @@
 |[Gromov-Wasserstein Alignment of Word Embedding Spaces](http://aclweb.org/anthology/D18-1214)|2018 emnlp|||
 |[Word Relation Autoencoder for Unseen Hypernym Extraction Using Word Embeddings](http://aclweb.org/anthology/D18-1519)|2018 emnlp||为了避免对训练样本过拟合（即在训练集出现对pair效果好），从对（w1，w2）建模转为 （w1，w2-w1）建模，并使用AutoEncoder|
 |[Learning Gender-Neutral Word Embeddings](https://aclanthology.info/papers/D18-1521/d18-1521)|2018 emnlp|||
-|[Specialising Word Vectors for Lexical Entailment](https://aclanthology.info/papers/N18-1103/n18-1103)|2018 naacl|||
+|[Specialising Word Vectors for Lexical Entailment](http://aclweb.org/anthology/N18-1103)|2018 naacl||使用外部关系词进行映射训练|
 |[DeepAlignment: Unsupervised Ontology Matching with Refined Word Vectors](https://aclanthology.info/papers/N18-1072/n18-1072)|2018 naacl|||
 |[Enhanced Word Representations for Bridging Anaphora Resolution](https://aclanthology.info/papers/N18-2001/n18-2001)|2018 naacl|||
 |[Relation Induction in Word Embeddings Revisited](https://aclanthology.info/papers/C18-1138/c18-1138)|2018 coling|||
