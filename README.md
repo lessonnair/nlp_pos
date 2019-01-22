@@ -52,7 +52,7 @@
 |[Normalisation of Historical Text Using Context-Sensitive Weighted Levenshtein Distance and Compound Splitting](http://120.52.51.13/www.ep.liu.se/ecp/085/017/ecp1385017.pdf)|2013|||
 |[Explicit Retrofitting of Distributional Word Vectors](http://www.aclweb.org/anthology/P18-1004)|2018||使用nn拟合一个新的度量空间映射，使得在新的度量空间里满足同义反义词距离条件，且保持愿空间的拓扑结构；还可借鉴一种数据增强方法|
 |[Unsupervised Learning of Style-sensitive Word Vectors](http://aclweb.org/anthology/P18-2091)|2018，可捕捉 Stylistic Similarity版的CBOW||为捕捉 semantic and syntactic similarities，使用context预测target；为了捕捉Stylistic Similarity，使用非context预测target|
-|[Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization](https://arxiv.org/pdf/1809.04163.pdf)|2018，对抗学习，词向量微调|[代码地址](https://github.com/cambridgeltl/adversarial-postspec)|使用gan拟合一个新的度量空间映射，同时使用L2保持原词向量空间的拓扑结构不变|
+|[Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization](https://arxiv.org/pdf/1809.04163.pdf)|2018，对抗学习，词向量微调|[代码地址](https://github.com/cambridgeltl/adversarial-postspec)|它先使用外部辞典进行词向量refine，得到一部分词的refined词向量；利用前一步的结果作为训练集，使用gan进行原始词向量到refine词向量映射的学习|
 |[Using pseudo-senses for improving the extraction of synonyms from word embeddings](http://aclweb.org/anthology/P18-2056)|2018 acl||创新点在于将一句话拆成context－target的方式，在原有方式基础上，增加一个target在同一句话整体的context描述方式。refine词向量的方式有paragram和Retrofitting两种，它这里使用paragram|
 |[Auto-Encoding Dictionary Definitions into Consistent Word Embeddings](http://aclweb.org/anthology/D18-1181)|2018 emnlp||仅仅使用辞典定义来训练词向量，可以更好捕获词的similarity；refine词向量时也可以考虑将辞典定义这种关系考虑进去|
 |[Gromov-Wasserstein Alignment of Word Embedding Spaces](http://aclweb.org/anthology/D18-1214)|2018 emnlp|||
