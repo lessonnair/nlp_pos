@@ -80,6 +80,11 @@
 - https://aclweb.org/aclwiki/RG-65_Test_Collection_(State_of_the_art)
 - https://github.com/sebastianruder/NLP-progress
 
+# 几个数据集源
+|    数据集    |   关键词＋概述   | 
+| ----------- | ------------------- | 
+|https://github.com/airshipcloud/dictionary-seed/tree/master/wordnet/Thesaurus||
+
 # 2018 NIPS Best Paper
 |    论文题目    |   关键词＋概述   | 下载路径 | 说明（创新点） |
 | ----------- | ------------------- | -------- | -------|
