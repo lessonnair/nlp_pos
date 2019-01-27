@@ -100,3 +100,8 @@
 |[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)|2017|||
 |[Long Text Generation via Adversarial Training with Leaked Information](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16360/16061)|2018|||
 |[Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850)|2017|||
+
+# 其他资源
+|    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
+| ----------- | ------------------- | ----- | -------|
+|[Distance metric learning, with application to clustering with side-information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)||||
