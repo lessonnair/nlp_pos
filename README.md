@@ -93,15 +93,11 @@
 |Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes||https://papers.nips.cc/paper/7601-nearly-tight-sample-complexity-bounds-for-learning-mixtures-of-gaussians-via-sample-compression-schemes.pdf||
 |Neural Ordinary Differential Equations||https://arxiv.org/pdf/1806.07366||
 
-# gan资源
-
+# 其他资源
 |    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
 | ----------- | ------------------- | ----- | -------|
 |[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)|2017|||
 |[Long Text Generation via Adversarial Training with Leaked Information](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16360/16061)|2018|||
 |[Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850)|2017|||
-
-# 其他资源
-|    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
-| ----------- | ------------------- | ----- | -------|
 |[Distance metric learning, with application to clustering with side-information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)||||
+|[A Survey on Metric Learning for Feature Vectors and Structured Data](https://arxiv.org/pdf/1306.6709.pdf)||||
