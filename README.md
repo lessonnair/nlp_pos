@@ -99,5 +99,5 @@
 |[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)|2017|||
 |[Long Text Generation via Adversarial Training with Leaked Information](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16360/16061)|2018|||
 |[Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850)|2017|||
-|[Distance metric learning, with application to clustering with side-information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)||||
-|[A Survey on Metric Learning for Feature Vectors and Structured Data](https://arxiv.org/pdf/1306.6709.pdf)||||
+|[Distance metric learning, with application to clustering with side-information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)|2003 metric learning 聚类|||
+|[A Survey on Metric Learning for Feature Vectors and Structured Data](https://arxiv.org/pdf/1306.6709.pdf)|2014 metric learning 调研|||
