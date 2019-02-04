@@ -65,6 +65,7 @@
 |[Encoding Sentiment Information into Word Vectors for Sentiment Analysis](http://aclweb.org/anthology/C18-1085)|2018 coling|||
 |[Word Sense Disambiguation Based on Word Similarity Calculation Using Word Vector Representation from a Knowledge-based Graph](https://aclanthology.info/papers/C18-1229/c18-1229)|2018 coling|||
 |[Learning Hierarchical Similarity Metrics](http://www.cs.toronto.edu/~vnair/cvpr12.pdf)|2012|||
+|[Poincaré Embeddings for Learning Hierarchical Representations](http://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf)|2017|||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
