@@ -82,6 +82,9 @@
 - https://aclweb.org/aclwiki/RG-65_Test_Collection_(State_of_the_art)
 - https://github.com/sebastianruder/NLP-progress
 
+## 论文工具链接地址
+- [查询论文latex bib地址](https://www.bibsonomy.org/search/Specializing%20Word%20Embeddings%20for%20Similarity%20or%20Relatedness)
+
 # 几个数据集源
 |    数据集    |   关键词＋概述   | 
 | ----------- | ------------------- | 
