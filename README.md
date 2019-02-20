@@ -69,6 +69,7 @@
 |[PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction](http://shichuan.org/hin/time/2018.KDD%202018%20PME_Projected%20Metric%20Embedding%20on%20Heterogeneous%20Networks%20for%20Link%20Prediction.pdf)|2018, 异构网络结构 embedding|||
 |[Scalable Graph Embedding for Asymmetric Proximity](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14696/14500)|2017, 非对称结构的图embedding|||
 |[Hierarchical Embeddings for Hypernymy Detection and Directionality](https://arxiv.org/pdf/1707.07273.pdf)|2017 acl|||
+|[Imposing Hard Constraints on Deep Networks: Promises and Limitations](https://arxiv.org/pdf/1706.02025.pdf)|2017|||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
