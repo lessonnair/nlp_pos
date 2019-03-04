@@ -72,6 +72,7 @@
 |[Imposing Hard Constraints on Deep Networks: Promises and Limitations](https://arxiv.org/pdf/1706.02025.pdf)|2017|||
 |[Large-Scale Embedding Learning in Heterogeneous Event Data](http://hanj.cs.illinois.edu/pdf/icdm16_hgui.pdf)|2018 aaai|||
 |[Relation Structure-Aware Heterogeneous Information Network Embedding](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuY.5171.pdf)|2019 aaai||将所有异构关系简化从属关系和交互关系；从属关系的距离直接使用欧里几得距离（相当于在同一类别）；交互关系距离在原始L1距离中加入表征relation的向量Yr（|X2-X1-Yr|）|
+|[Unseen Word Representation by Aligning Heterogeneous Lexical Semantic Spaces](https://arxiv.org/pdf/1811.04983.pdf)|aaai 2019|||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
