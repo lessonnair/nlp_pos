@@ -66,11 +66,12 @@
 |[Word Sense Disambiguation Based on Word Similarity Calculation Using Word Vector Representation from a Knowledge-based Graph](https://aclanthology.info/papers/C18-1229/c18-1229)|2018 coling|||
 |[Learning Hierarchical Similarity Metrics](http://www.cs.toronto.edu/~vnair/cvpr12.pdf)|2012|||
 |[Poincaré Embeddings for Learning Hierarchical Representations](http://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf)|2017|||
-|[PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction](http://shichuan.org/hin/time/2018.KDD%202018%20PME_Projected%20Metric%20Embedding%20on%20Heterogeneous%20Networks%20for%20Link%20Prediction.pdf)|2018, 异构网络结构 embedding|||
+|[PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction](http://shichuan.org/hin/time/2018.KDD%202018%20PME_Projected%20Metric%20Embedding%20on%20Heterogeneous%20Networks%20for%20Link%20Prediction.pdf)|2018, 异构网络结构 embedding||对于异构的关系，先将原始向量进行与relation相关的特定的映射；双向（一个edge的两个node）负采样|
 |[Scalable Graph Embedding for Asymmetric Proximity](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14696/14500)|2017, 非对称结构的图embedding|||
 |[Hierarchical Embeddings for Hypernymy Detection and Directionality](https://arxiv.org/pdf/1707.07273.pdf)|2017 acl|||
 |[Imposing Hard Constraints on Deep Networks: Promises and Limitations](https://arxiv.org/pdf/1706.02025.pdf)|2017|||
 |[Large-Scale Embedding Learning in Heterogeneous Event Data](http://hanj.cs.illinois.edu/pdf/icdm16_hgui.pdf)|2018 aaai|||
+|[Relation Structure-Aware Heterogeneous Information Network Embedding](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuY.5171.pdf)|2019 aaai||将所有异构关系简化从属关系和交互关系；从属关系的距离直接使用欧里几得距离（相当于在同一类别）；交互关系距离在原始L1距离中加入表征relation的向量Yr（|X2-X1-Yr|）|
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
