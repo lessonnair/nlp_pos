@@ -1,4 +1,4 @@
-# 论文资源
+# 词表示论文资源
 
 |    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
 | ----------- | ------------------- | ----- | -------|
@@ -73,6 +73,11 @@
 |[Large-Scale Embedding Learning in Heterogeneous Event Data](http://hanj.cs.illinois.edu/pdf/icdm16_hgui.pdf)|2018 aaai|||
 |[Relation Structure-Aware Heterogeneous Information Network Embedding](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuY.5171.pdf)|2019 aaai||将所有异构关系简化从属关系和交互关系；从属关系的距离直接使用欧里几得距离（相当于在同一类别）；交互关系距离在原始L1距离中加入表征relation的向量Yr（|X2-X1-Yr|）|
 |[Unseen Word Representation by Aligning Heterogeneous Lexical Semantic Spaces](https://arxiv.org/pdf/1811.04983.pdf)|aaai 2019||先使用外部辞典图进行random walk，生成人造句子，进行词向量训练得到v1；再学习v1到普通词向量v2的映射，目标函数是最大化CCA(Canonical Correlation Analysis)|
+
+# 文本分类论文
+|    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
+| ----------- | ------------------- | ----- | -------|
+|||||
 
 # 几种NLP任务state of the art水平
 |    任务名称    |   数据集+描述   | 目前别人最优值 | 描述及链接 | 现状值|
